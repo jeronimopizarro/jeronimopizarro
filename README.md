@@ -2,7 +2,7 @@
 
 **`Estudiante de Tecnicatura en Desarrollo Web`**
 
-Trainee en desarrollo web especializado en Java. Apasionado por la programación, la resolución de problemas y aprender nuevas tecnologías. Buscando mejorar mis habilidades y crecer como desarrollador.
+Trainee en desarrollo web especializado en Java. Apasionado por la programación, buscando mejorar mis habilidades y crecer como desarrollador.
 
 ### 💻 Habilidades:
 
@@ -12,8 +12,9 @@ Trainee en desarrollo web especializado en Java. Apasionado por la programación
 <img align="left" alt="SQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
 <img align="left" alt="Thymeleaf" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/thymeleaf/thymeleaf-original.svg"/>
 <img align="left" alt="JUnit" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-plain.svg"/>
-<img align="left" alt="Mockito" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mockito/mockito-original.svg"/>
 <br />
 
+### 📫 Contacto
 
-#
+- 📧 Email: [jeronimo1080@hotmail.com](mailto:jeronimo1080@hotmail.com)  
+- 💼 LinkedIn: [Jeronimo Pizarro](https://www.linkedin.com/in/jeronimo-pizarro-4a0114268/)
